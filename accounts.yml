@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts Microservice"
+  contactDetails:
+    name: "Rahul"
+    email: "Rahul@123"
+  onCallSupport:
+    -2332434234
+    -2332434234
+

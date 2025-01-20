@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Accounts Microservice under QA Environment"
+  contactDetails:
+    name: "Subhash-QA Lead"
+    email: "Subhash@123"
+  onCallSupport:
+    -2332434234
+    -2332434234
