@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Accounts Microservice under PRODUCTION Environment"
   contactDetails:
     name: "Rohan-PROD Lead"
-    email: "0deae012843fd13ffed99b59eb7267ecd05f2f7049aca4378d118cd78b09abe8d1b31f4f65d3ff30a15faf581089b919"
+    email: "{cipher}0deae012843fd13ffed99b59eb7267ecd05f2f7049aca4378d118cd78b09abe8d1b31f4f65d3ff30a15faf581089b919"
   onCallSupport:
     -2332434234
     -2332434234
