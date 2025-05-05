@@ -5,8 +5,8 @@ build:
 accounts:
   message: "Accounts Microservice"
   contactDetails:
-    name: "Rahul"
-    email: "Rahul@123"
+    name: "Jay"
+    email: "Jayl@123"
   onCallSupport:
     -2332434234
     -2332434234
